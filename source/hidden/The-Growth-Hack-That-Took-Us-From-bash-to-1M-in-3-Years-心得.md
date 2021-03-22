@@ -2,10 +2,27 @@
 title: The Growth Hack That Took Us From -bash to 1M in 3 Years 心得
 date: 2020-11-13 00:00:00
 tags:
+categories:
+	- 讀書心得
+author: 嘉鼎智能
+---
+
+> 本文為 [嘉鼎智能](#關於我們) 內部讀書心得整理後分享，我們不定期會分享各種幫助擴增心智的學習文章，歡迎加入LINE社群參與討論。
+>
+> [點此加入擴增心智學習群](https://line.me/ti/g2/asPFU-0w4o9MIRSBdb4gtg)
+> ![擴增心智學習群](/img/擴增心智學習群.jpg)
+
 ---
 
 
 文章連結：https://entrepreneurshandbook.co/the-growth-hack-that-took-us-from-0-to-11m-in-3-years-b51a109db487
+
+
+---
+## 目錄
+- [目錄](#目錄)
+
+---
 
 作者過去是新創Fintech公司的員工 ( 現在是CEO )，這篇文章講述他們是如何做，三年間讓公司從零成長到具一定規模。
 
@@ -84,3 +101,27 @@ Brian：能否按照這篇文章建議的模式，建立一個團隊的行銷業
 
 
 行動方案：建立開發活動行動清單
+
+---
+## 其他連結
+
+[讀書心得](/categories/讀書心得)
+
+[產品共學群](https://line.me/ti/g2/Dj4AkbdDsY6o4D_CdDUB6Q?utm_source=invitation&utm_medium=link_copy&utm_campaign=default)
+
+[所得科技討論群](https://line.me/ti/g2/asPFU-0w4o9MIRSBdb4gtg?utm_source=invitation&utm_medium=link_copy&utm_campaign=default)
+
+[擴增心智學習群](https://line.me/ti/g2/asPFU-0w4o9MIRSBdb4gtg?utm_source=invitation&utm_medium=link_copy&utm_campaign=default)
+
+
+---
+## 關於我們
+嘉鼎智能(股)公司為美商嘉鼎智能團隊（Magnific Intelligence Collective, LLC ），於台灣設立之服務據點，成立於1999年，以「嘉惠人群、穩如鐘鼎」的信念，追求所得科技的進化。 
+
+為幫助更多人與團隊合作，共享人心智能，嘉鼎智能推出「ACIS擴增集智系統」，協助大家學習如何透過有系統的運作：
+
+ 收集成果->調配擴增->驗收更新
+
+三階段，獲取實質所得，持續擴增未來所需的動力能量。 
+
+[👉 了解更多](https://act.magnific.biz)

@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://magnific-colearning.github.io
+url: https://colearning.magnific.biz
 permalink: :title/
 permalink_defaults:
 pretty_urls:
@@ -107,3 +107,8 @@ deploy:
   repo: https://github.com/Magnific-Colearning/Magnific-Colearning.github.io
   branch: main
   message: updated from desktop
+
+# 注意：yml 非常在意縮排。
+sitemap:
+    path: sitemap.xml
+    template: # 這行非必填，除非你想設定自訂的樣板

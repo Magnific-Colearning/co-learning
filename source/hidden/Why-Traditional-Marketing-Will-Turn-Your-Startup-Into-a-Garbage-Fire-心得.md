@@ -2,9 +2,17 @@
 title: Why Traditional Marketing Will Turn Your Startup Into a Garbage Fire 心得
 date: 2020-12-17 00:00:00
 tags:
+categories:
+	- 讀書心得
+author: 嘉鼎智能
 ---
 
+> 本文為 [嘉鼎智能](#關於我們) 內部讀書心得整理後分享，我們不定期會分享各種幫助擴增心智的學習文章，歡迎加入LINE社群參與討論。
+>
+> [點此加入擴增心智學習群](https://line.me/ti/g2/asPFU-0w4o9MIRSBdb4gtg)
+> ![擴增心智學習群](/img/擴增心智學習群.jpg)
 
+---
 Why Traditional Marketing Will Turn Your Startup Into a Garbage Fire
 
 作者: Joe Procopio
@@ -12,7 +20,11 @@ Why Traditional Marketing Will Turn Your Startup Into a Garbage Fire
 文章連結：
 https://jproco.medium.com/why-traditional-marketing-will-turn-your-startup-into-a-garbage-fire-26cb5c6ac6a6
 
+---
+## 目錄
+- [目錄](#目錄)
 
+---
 
 主旨:
 
@@ -62,5 +74,27 @@ Start with a tactical approach
 
 新創公司的行銷無法比照大型企業採取品牌行銷策略，採用 education、coaching 等戰術會有效得多。 如果進行得宜，新產品在市場上佔有一席之地的機會就會大大增加。
 
+---
+## 其他連結
 
+[讀書心得](/categories/讀書心得)
+
+[產品共學群](https://line.me/ti/g2/Dj4AkbdDsY6o4D_CdDUB6Q?utm_source=invitation&utm_medium=link_copy&utm_campaign=default)
+
+[所得科技討論群](https://line.me/ti/g2/asPFU-0w4o9MIRSBdb4gtg?utm_source=invitation&utm_medium=link_copy&utm_campaign=default)
+
+[擴增心智學習群](https://line.me/ti/g2/asPFU-0w4o9MIRSBdb4gtg?utm_source=invitation&utm_medium=link_copy&utm_campaign=default)
+
+
+---
+## 關於我們
+嘉鼎智能(股)公司為美商嘉鼎智能團隊（Magnific Intelligence Collective, LLC ），於台灣設立之服務據點，成立於1999年，以「嘉惠人群、穩如鐘鼎」的信念，追求所得科技的進化。 
+
+為幫助更多人與團隊合作，共享人心智能，嘉鼎智能推出「ACIS擴增集智系統」，協助大家學習如何透過有系統的運作：
+
+ 收集成果->調配擴增->驗收更新
+
+三階段，獲取實質所得，持續擴增未來所需的動力能量。 
+
+[👉 了解更多](https://act.magnific.biz)
 
