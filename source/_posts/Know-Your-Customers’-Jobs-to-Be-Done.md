@@ -9,8 +9,8 @@ author: 嘉鼎智能
 # Know Your Customers’ “Jobs to Be Done” 學習心得
 
 > Is innovation inherently a hit-or-miss endeavor? Not if you understand why customers make the choices they do.
-
-![](https://hbr.org/resources/images/article_assets/2016/07/R1609D_CAM-1200x564.jpg)
+>
+>![](https://hbr.org/resources/images/article_assets/2016/07/R1609D_CAM-1200x564.jpg)
 
 > 本文為 [嘉鼎智能](#關於我們) 內部讀書心得整理後分享，我們不定期會分享各種幫助擴增心智的學習文章，歡迎加入LINE社群參與討論。
 >

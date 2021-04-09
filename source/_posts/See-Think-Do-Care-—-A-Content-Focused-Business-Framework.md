@@ -10,7 +10,9 @@ author: 嘉鼎智能
 
 >See, Think, Do & Care — STDC架構出自Google 的 Digital Marketing Evangelist - Avinash Kaushik。
 >一般的行銷方法大多只關注買單，而造成浪費了許多行銷資源。當行銷資源投放到潛在用戶群體中，轉換率不到10%，而其他連結的90%用戶皆被無視。為了更好的連結不同狀態的用戶，STDC架構將潛在用戶依狀態分為四個群體，幫助我們更好的連結不同群體。
+>
 >![STDC](/img/STDC.png)
+
 > 本文為 [嘉鼎智能](#關於我們) 內部讀書心得整理後分享，我們不定期會分享各種幫助擴增心智的學習文章，歡迎加入LINE社群參與討論。
 >
 > [點此加入擴增心智學習群](https://line.me/ti/g2/asPFU-0w4o9MIRSBdb4gtg)

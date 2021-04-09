@@ -6,7 +6,9 @@ categories:
 	- 讀書心得
 author: 嘉鼎智能
 ---
-![](/img/kpi-measurment.png)
+>
+>![](/img/kpi-measurment.png)
+
 > 本文為 [嘉鼎智能](#關於我們) 內部讀書心得整理後分享，我們不定期會分享各種幫助擴增心智的學習文章，歡迎加入LINE社群參與討論。
 >
 > [點此加入擴增心智學習群](https://line.me/ti/g2/asPFU-0w4o9MIRSBdb4gtg)
