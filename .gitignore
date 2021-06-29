@@ -2,4 +2,8 @@
 
 .DS_Store
 
-/themes
+*themes/
+
+*public/
+
+node_modules/
