@@ -71,8 +71,10 @@ Civic Tech（公民科技）主要在於利用各種設計思維、溝通方式�
 [《目標》簡單有效的常識管理｜心得筆記](https://medium.com/agile-coffee/%E7%9B%AE%E6%A8%99-1eb759c8d090)
 - 這本書的作者提出了「限制理論 TOC」的概念，在於認為一個複雜的系統總是可以找出一個阻礙系統成長的最大限制。只要關注整體系統有效產出，找出最大限制，便可讓系統成長。避免了過往需要針對系統每個小部位去解決限制，而造成挖東牆補西牆的狀況。
 
+[Understanding Little’s Law & How to Apply It](https://everhour.com/blog/littles-law/)
+- Little's law 描述了穩態系統中的平均顧客數，等於 長時間的客戶有效到達率 乘上 客戶平均停留的時間。雖然是用在穩態的式子，亦可以幫助我們利用來了解如果要讓系統成長，我們該如何調整。
 
-[]()
+[ARPU: How to Calculate and Interpret Average Revenue Per User](https://blog.hubspot.com/service/arpu)
 
 ### 合作溝通
 
