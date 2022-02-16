@@ -47,6 +47,7 @@ Civic Tech（公民科技）主要在於利用各種設計思維、溝通方式�
 
 ### 系統思維
 
+- [被人們誤解數十年！3 面向重新拆解馬斯洛，掌握消費需求、衝高業績](https://www.managertoday.com.tw/columns/view/64635)
 
 ### 合作溝通
 
@@ -61,7 +62,38 @@ Civic Tech（公民科技）主要在於利用各種設計思維、溝通方式�
 ---
 ## 活動分享
 
-- **2月14日**
+- **2月22日**
+	- [元宇宙的產業創新模式](https://www.accupass.com/event/2112141008333011662250)
+
+	- [社群數據分析，你不知道的事|診斷商業需求，助您商機挖掘X行銷洞察](https://www.accupass.com/event/2201170435201551450729)
+
+	- [2022 年 02 月開發者對話](https://developers-talk.kktix.cc/events/2022-02)
+- **2月23日**
+	- [Thriving on B2B island](https://www.accupass.com/event/2202090355385486225920)
+
+	- [二律背反-影像群展](https://www.accupass.com/event/2202130320061438827100)
+
+	- [Big questions: How big is the universe?](https://www.meetup.com/thebigquestions/events/283789675)
+
+	- [SyntaxError](https://www.meetup.com/pythonhug/events/283676488)
+
+	- [Android Code Club](https://www.meetup.com/Taiwan-Android-Developer-Study-Group/events/283676461)
+- **2月24日**
+	- [用創新思維打通歐洲市場| 都市科技海外創業經驗不私藏](https://www.accupass.com/event/2201270258564238166600)
+
+	- [HackingThursday](https://www.meetup.com/hackingthursday/events/283709899)
+
+	- [Website Monitoring for CEOs and Leaders](https://www.eventbrite.com/e/website-monitoring-for-ceos-and-leaders-tickets-232067388807?aff=ebdssbdestsearch)
+- **2月25日**
+	- [【公民議題大家來討論】從產品回收再利用 來探討循環經濟](https://www.accupass.com/event/2202090826212028673211)
+
+	- [設計的社會參與及經營能量提升講座](https://www.accupass.com/event/2202150156251501948813)
+
+	- [楊易導演新書Q&A分享會：我的第一本廣告行銷影片企劃實戰書](https://www.accupass.com/event/2201131021486735398600)
+- **2月26日**
+	- [瑞⼠書籍設計和教育 Swiss Book design and education](https://www.accupass.com/event/2202110313481703356445)
+- **2月27日**
+	- [Coffee & Code](https://www.meetup.com/Innovate-Taiwan/events/283967319)
 
 
 ---
