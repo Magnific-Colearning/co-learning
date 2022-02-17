@@ -47,7 +47,24 @@ Civic Tech（公民科技）主要在於利用各種設計思維、溝通方式�
 
 ### 系統思維
 
-- [被人們誤解數十年！3 面向重新拆解馬斯洛，掌握消費需求、衝高業績](https://www.managertoday.com.tw/columns/view/64635)
+#### [The circular economy, cooperatives and the social and solidarity economy](https://www.un.org/development/desa/cooperatives/2021/08/02/the-circular-economy-cooperatives-and-the-social-and-solidarity-economy/)
+
+這是聯合國經濟及社會理事會的文章，為何需要把循環經濟、合作組織、以及社會團結經濟，整合在一起。
+
+裡面的討論，SDGs-2030的每項目標，往往難以同時完成，有些甚至有互斥性。可以說循環經濟、合作組織、以及更廣的社會團結經濟整合對於要達成SDGs實為必要。但也會發現執行上也是需要細心設計，就像有段提到用資訊科技可以幫助循環經濟，但也要小心資訊科技所使用的聯網設備也可能是電子垃圾。
+合作社由於其本身合作的特性為SSE中相對活躍的組成部分，但SSE的意義又更為廣泛，即是專注於解決某種明確社會議題的組成。也由於其較具有彈性，成為解決社會議題的重要力量。
+
+#### [Circular and solidarity economy: it reconnects producers and consumers and provides innovative solutions for living within our planetary boundaries while ensuring the social foundation for inclusive and sustainable development](https://www.fao.org/agroecology/knowledge/10-elements/circular-economy/en/?page=11)
+
+循環及團結經濟，重新將生產者及消費者連結起來，並且由地球有限的生活空間中，提供我們創新的解決方案，同時確立兼容並蓄、及永續發展的基礎。
+
+裡面談到了生態農業，著重於類似地方創生，讓區域性的農業生產及消費間，創造公平及可持續性。而社會創新扮演了重要的角色，將生態農業的市場日益漸增。透過循環設計減少了浪費，減少了過程中能源使用及造成的溫室氣體排放外，也增加了食物的高效利用。
+
+#### [I Wish Someone Had Warned Me About the Real Reason Most Startups Fail](https://medium.com/swlh/i-wish-someone-had-warned-me-about-the-real-reason-most-startups-fail-fd01bd96f908)
+
+本篇文章，從作者個人經驗，由創業與家庭的變化，提到了創業的週期往往很長，各種意外狀況總是會發生，而影響整個規劃的穩定性。
+
+我們在思考社會團結經濟時，會注意到任何重新建立的組織都可能面臨各種不確定，而透過直接與現有的組織形成團結經濟，則是將各種組織的各種現狀、不確定也納入整個系統考量，而專注於解決目標的社會經濟議題。
 
 ### 合作溝通
 
@@ -55,9 +72,19 @@ Civic Tech（公民科技）主要在於利用各種設計思維、溝通方式�
 
 ### 設計
 
-（暫無分享）
+#### [From better products to a better society: designing for the circular economy](https://medium.com/circulatenews/from-better-products-to-a-better-society-designing-for-the-circular-economy-8354269599a1)
+
+文章提到了從設計過程和思維方式來推動循環經濟的四個層次的創新，從一開始的產品設計->產品服務系統設計->空間社會系統創新->社會技術系統。
+
+循環設計，從一開始的產品設計，而進化到對整個社會議題的倡議，而在不同角度思考解決的問題，也從為了解決個人限制問題，而轉為解決社會永續進展的議題。
 
 ### 技術
+
+- [How to Create a Network Proxy Using Stream Processor Pipy](https://www.infoq.com/articles/network-proxy-stream-processor-pipy/)
+
+- [How the Financial Times Approaches Engineering Enablement](https://www.infoq.com/articles/financial-times-engineering-enablement/)
+
+- [Application modernization patterns with Apache Kafka, Debezium, and Kubernetes](https://developers.redhat.com/articles/2021/06/14/application-modernization-patterns-apache-kafka-debezium-and-kubernetes)
 
 ---
 ## 活動分享
