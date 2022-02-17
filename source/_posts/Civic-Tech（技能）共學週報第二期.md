@@ -122,11 +122,16 @@ Civic Tech（公民科技）主要在於利用各種設計思維、溝通方式�
 - **2月27日**
 	- [Coffee & Code](https://www.meetup.com/Innovate-Taiwan/events/283967319)
 
-
 ---
 ## 新聞分享
 
+- [Rust 2021大調查顯示，已有59％的Rust使用者將該語言用於工作](https://www.ithome.com.tw/news/149399)
 
+- [法國政府也宣布Google Analytics違反GDPR](https://www.ithome.com.tw/news/149363)
+
+- [Mozilla與Meta合作開發隱私廣告系統，希望在維護用戶隱私的同時，也能實現廣告歸因，供廣告商掌握廣告效益](https://www.ithome.com.tw/news/149357)
+
+- [明明會用「數位工具」，卻還是轉型困難？你缺乏的可能是「數位思維」](https://www.bnext.com.tw/article/67638/transformation-digital-thinking)
 
 ---
 ## 其他連結
