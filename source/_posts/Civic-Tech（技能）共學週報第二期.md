@@ -11,7 +11,7 @@ author:
 ---
 # Civic Tech（技能）共學週報｜第二期 (2022.2.16)
 
-![Civic-Tech-1](/img/ct/1.png)
+![Civic-Tech-2](/img/ct/2.png)
 
 ## 前言
 
@@ -29,8 +29,24 @@ Civic Tech（公民科技）主要在於利用各種設計思維、溝通方式�
 >如果大家有知道各種新資訊以及好的活動，也歡迎加入我們的LINE社群，分享給大家。
 
 ---
+## 推薦活動
+
+【2月25日｜公民議題大家來討論】從產品回收再利用 來探討循環經濟
+
+🔶 線上免費活動 2/25 Fri. 14:00-16:00 
+
+將使用過後的產品或衍伸的廢棄物，經由回收後，賦予了新的利用方式，增加可被使用的層面和降低生產成本達到循環經濟的方式。 歡迎大家一同來參加活動
+
+☞ [報名連結](https://www.accupass.com/event/2202090826212028673211)
+
+
+[![【公民議題大家來討論】從產品回收再利用 來探討循環經濟](https://static.accupass.com/eventbanner/2202150345452130039169.jpg)
+](https://www.accupass.com/event/2202090826212028673211)
+
+---
 ## 目錄
 - [前言](#前言)
+- [推薦活動](#推薦活動)
 - [目錄](#目錄)
 - [學習資料分享](#學習資料分享)
 	- [系統思維](#系統思維)
@@ -47,20 +63,20 @@ Civic Tech（公民科技）主要在於利用各種設計思維、溝通方式�
 
 ### 系統思維
 
-#### [The circular economy, cooperatives and the social and solidarity economy](https://www.un.org/development/desa/cooperatives/2021/08/02/the-circular-economy-cooperatives-and-the-social-and-solidarity-economy/)
+#### ☞ [The circular economy, cooperatives and the social and solidarity economy](https://www.un.org/development/desa/cooperatives/2021/08/02/the-circular-economy-cooperatives-and-the-social-and-solidarity-economy/)
 
 這是聯合國經濟及社會理事會的文章，為何需要把循環經濟、合作組織、以及社會團結經濟，整合在一起。
 
 裡面的討論，SDGs-2030的每項目標，往往難以同時完成，有些甚至有互斥性。可以說循環經濟、合作組織、以及更廣的社會團結經濟整合對於要達成SDGs實為必要。但也會發現執行上也是需要細心設計，就像有段提到用資訊科技可以幫助循環經濟，但也要小心資訊科技所使用的聯網設備也可能是電子垃圾。
 合作社由於其本身合作的特性為SSE中相對活躍的組成部分，但SSE的意義又更為廣泛，即是專注於解決某種明確社會議題的組成。也由於其較具有彈性，成為解決社會議題的重要力量。
 
-#### [Circular and solidarity economy: it reconnects producers and consumers and provides innovative solutions for living within our planetary boundaries while ensuring the social foundation for inclusive and sustainable development](https://www.fao.org/agroecology/knowledge/10-elements/circular-economy/en/?page=11)
+#### ☞ [Circular and solidarity economy: it reconnects producers and consumers and provides innovative solutions for living within our planetary boundaries while ensuring the social foundation for inclusive and sustainable development](https://www.fao.org/agroecology/knowledge/10-elements/circular-economy/en/?page=11)
 
 循環及團結經濟，重新將生產者及消費者連結起來，並且由地球有限的生活空間中，提供我們創新的解決方案，同時確立兼容並蓄、及永續發展的基礎。
 
 裡面談到了生態農業，著重於類似地方創生，讓區域性的農業生產及消費間，創造公平及可持續性。而社會創新扮演了重要的角色，將生態農業的市場日益漸增。透過循環設計減少了浪費，減少了過程中能源使用及造成的溫室氣體排放外，也增加了食物的高效利用。
 
-#### [I Wish Someone Had Warned Me About the Real Reason Most Startups Fail](https://medium.com/swlh/i-wish-someone-had-warned-me-about-the-real-reason-most-startups-fail-fd01bd96f908)
+#### ☞ [I Wish Someone Had Warned Me About the Real Reason Most Startups Fail](https://medium.com/swlh/i-wish-someone-had-warned-me-about-the-real-reason-most-startups-fail-fd01bd96f908)
 
 本篇文章，從作者個人經驗，由創業與家庭的變化，提到了創業的週期往往很長，各種意外狀況總是會發生，而影響整個規劃的穩定性。
 
@@ -72,7 +88,7 @@ Civic Tech（公民科技）主要在於利用各種設計思維、溝通方式�
 
 ### 設計
 
-#### [From better products to a better society: designing for the circular economy](https://medium.com/circulatenews/from-better-products-to-a-better-society-designing-for-the-circular-economy-8354269599a1)
+#### ☞ [From better products to a better society: designing for the circular economy](https://medium.com/circulatenews/from-better-products-to-a-better-society-designing-for-the-circular-economy-8354269599a1)
 
 文章提到了從設計過程和思維方式來推動循環經濟的四個層次的創新，從一開始的產品設計->產品服務系統設計->空間社會系統創新->社會技術系統。
 
