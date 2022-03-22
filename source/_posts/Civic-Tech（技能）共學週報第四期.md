@@ -127,7 +127,7 @@ Inflation會讓人的存款在一百年以後價值幾乎變為零。
 ---
 ## 其他連結
 
-- [永許所得實驗室FB粉絲頁](https://www.facebook.com/%E6%B0%B8%E7%BA%8C%E6%89%80%E5%BE%97%E5%AF%A6%E9%A9%97%E5%AE%A4-102916798609139)
+- [永續所得實驗室FB粉絲頁](https://www.facebook.com/%E6%B0%B8%E7%BA%8C%E6%89%80%E5%BE%97%E5%AF%A6%E9%A9%97%E5%AE%A4-102916798609139)
 
 - [過往分享](/categories/產品（技能）學習週報)
 
