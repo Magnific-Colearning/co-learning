@@ -28,6 +28,24 @@ Civic Tech（公民科技）主要在於利用各種設計思維、溝通方式�
 >如果大家有知道各種新資訊以及好的活動，也歡迎加入我們的LINE社群，分享給大家。
 
 ---
+## 推薦活動
+
+【公民議題大家來討論】再生能源真的環保嗎？
+
+🔶 線上免費活動 4/8 Fri. 14:00-16:00 
+
+由於全球氣候變遷等各種議題，能源作為支持經濟的重要元素，能源的轉型成為現代經濟社會不可忽視的議題。然而，各種綠能方案，以及再生能源，在實務上也有機會產生其他的污染。
+
+本次「永續所得實驗室」將以類公民咖啡館的形式，邀請大家一同分析可再生能源可能面臨的困境，以及可能改善的方式。
+
+歡迎大家一同參加討論。
+
+☞ [報名連結](https://bit.ly/380vToU)
+
+[![【公民議題大家來討論】再生能源真的環保嗎？](https://static.accupass.com/eventbanner/2203280655591252799230.jpg)
+](https://bit.ly/380vToU)
+
+---
 ## 招聘訊息
 
 [![104](/img/ct/104jd.png)](https://www.104.com.tw/job/7ajci?jobsource=company_job)
@@ -41,6 +59,7 @@ Civic Tech（公民科技）主要在於利用各種設計思維、溝通方式�
 ---
 ## 目錄
 - [前言](#前言)
+- [推薦活動](#推薦活動)
 - [招聘訊息](#招聘訊息)
 - [目錄](#目錄)
 - [學習資料分享](#學習資料分享)
@@ -59,8 +78,36 @@ Civic Tech（公民科技）主要在於利用各種設計思維、溝通方式�
 
 ### 系統思維
 
+#### 永續能源、再生能源、替代能源 
+
+- [永續能源](https://zh.wikipedia.org/wiki/可持續能源)
+- [再生能源](https://zh.wikipedia.org/wiki/可再生能源)
+- [替代能源](https://zh.wikipedia.org/wiki/替代能源 )
+
+看起來「替代能源」指轉型進步的過程，一度石化燃料被認為是替代鯨油、動物油的能源，但後來又因各種問題而被替代。
+而「再生能源」是直接來自於自然界的能源，「永續能源」包含不對未來造成傷害的「再生能源」及其它能源技術。
+這樣來說，似乎「永續能源」是理想，而「替代能源」是實際上往理想邁進的歷程。
+
+乍看之下在永續能源的定義中，似乎看不出循環經濟的特性，英文的維基百科但提到了
+「A switch to a circular economy would make industry more sustainable as it involves recycling more and thereby using less energy compared to extracting new raw materials.」從「同時也包括設計爲提高能源利用效率的技術。」的角度來看，循環經濟的概念是自然需要包含在裡面的。
+
 ### 社會經濟
 
+#### [A 23-year-old on track to make six figures this year says he’s living proof that college isn’t necessary](https://fortune.com/2022/03/21/23-year-old-hvac-technician-on-track-to-make-six-figures/)
+
+“I have that feeling of ‘Hey, I did something important, I made someone happy,’”
+雖然也有倖存者偏差的疑慮, 但現代的教育的許多層面被詬病為"工廠""公司"的準備教育已是不爭的議題. 這背後當然可以看到每個國家地區當權者或執政者濃厚的影響力.
+
+裡面個案加入了工會的學徒制，以及「Being in the trades, you value yourself the more you educate yourself」也回憶到了之前討論的Throughput of Learning，先從了解要的產出，才去學，才避免現在大學可能學了很多，但無法使用。
+但也可以從另一個角度說，大學本就不該是為了職業找工作而存在，而是可以幫助Zoom out。
+
+
+#### [致力減碳，卻生出80萬噸廢棄太陽能板！「太陽能大國」日本，怎麼了？](https://www.businessweekly.com.tw/carbon-reduction/blog/3009432 )
+
+這篇文章討論了日本的太陽能一度作為再生能源轉型，解決了311大地震後的限電危機，也因政府大力推行補助，需求量激增。
+然而太陽能電池壽命有限，維修成本高，更嚴重的是，難以回收再利用，最後造成了污染。
+
+這篇與[「Three Little-Known Climate Change Impacts of Electric Cars」](https://medium.com/a-balanced-transition/three-little-known-climate-change-impacts-of-electric-cars-108d3f6efc4f)一文比對，會讓人注意到「Jevons Paradox」，想利用一些方案提升效率來解決環境過度利用的議題，但其並非不造成其他議題，而用量因需求、政府補助、金融推進而過度增加，最後造成的反面效應反而超過原來想解決的問題。
 
 
 ### 合作溝通
@@ -71,9 +118,23 @@ Civic Tech（公民科技）主要在於利用各種設計思維、溝通方式�
 
 - [超高速開發法Design Sprint入門指南](https://sdg.neuromagic.com/zh/design-sprint-101/)
 
-
 ### 技術
 
+#### [Goodbye Solar and Wind — The Battery That Could Power Everything](https://medium.com/predict/beyond-renewables-the-battery-that-could-power-everything-436a18c1ff59)
+
+文中提到了太陽能及風力發電效力低下、佔面積、無法隨時發電。而「奈米鑽石電池」已進行POC（概念可行性驗證），可以作為手機電池可以9年不充電，而戶外設備電池甚至可以達到2.8萬年。
+
+不過看到這，可能會想這電池的生產過程是否需要許多能量，或造成問題？
+
+文中的[一篇](https://medium.com/the-postcapitalist/the-28-000-year-battery-52c963280be0) 文章，以及中文的[這篇](https://buzzorange.com/techorange/2020/09/10/diamond-battery/)及[另一篇](https://technews.tw/2020/09/02/nano-diamond-battery/)，提到了這是以核廢料回收的材料所製作。這一點蠻重要，解決一個問題的過程中，使用循環經濟的概念，不但不多造成其它問題，甚至將原來有害的元素，轉化爲益處。
+
+
+
+#### 其它文章
+
+- [4 Best Backend Frameworks for 2022: Find Out Which Suits Your Project?](https://www.aceinfoway.com/blog/best-backend-frameworks?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJhdWQiOiJhY2Nlc3NfcmVzb3VyY2UiLCJleHAiOjE2NDg2MDQ2NDcsImciOiI4Tms2TTg1bmRWaDVnMXFMIiwiaWF0IjoxNjQ4NjA0MzQ3LCJ1c2VySWQiOjcwMDUxODA5fQ.WCH5zANunjvqpguwv5g3OrFJOuWfyHY3GZY2Ow0X5YM)
+
+- [Design: #noFramework](https://javarome.medium.com/design-noframework-bbc00a02d9b3)
 
 ---
 ## 活動分享
@@ -99,6 +160,7 @@ Civic Tech（公民科技）主要在於利用各種設計思維、溝通方式�
 - [企業永續路走到哪？－台灣永續報告的7個關鍵發現](https://ubrand.udn.com/ubrand/story/12117/6191634)
 
 - [半導體下一步－歐美將面對「自己的汙染供應鏈」](https://ubrand.udn.com/ubrand/story/12117/6190575)
+	- 這可以看到許多歐美的循環經濟，其實只是把爛攤子丟出去，而現在要面對了。
 
 ---
 ## 其他連結
