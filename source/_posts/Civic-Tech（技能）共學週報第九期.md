@@ -78,23 +78,80 @@ Civic Tech（公民科技）主要在於利用各種設計思維、溝通方式�
 
 ### 系統思維
 
+#### ☞ [極少人知道，電動車對氣候的影響竟然是這樣的！](https://sustainable-income-lab.github.io/Three-Little-Known-Climate-Change-Impacts-of-Electric-Cars/)
 
+電動車的發展常被認為是能源轉型的重要一環，然而這篇文章卻告訴我們事情並非這麽容易。
+
+文章去分析電動車的不同車型，從製造過程，到使用所需的電力、使用的地區，最後到其使用生命週期。我們會發現電動車的過度推廣，有可能對解決氣候問題造成反效果。
+
+裡面特別提到了Jevons Paradox 以及 社會貼現率 兩個概念，這對「永續所得實驗室」社群夥伴在思考社會團結經濟時，能夠理解，效率如果使用不當可能會帶來的負面效應，以及先破壞環境期待未來自然會恢復的心態常常不可行。
+
+
+#### ☞ [致力減碳，卻生出80萬噸廢棄太陽能板！「太陽能大國」日本，怎麼了？－福澤喬日本深度觀察](https://www.businessweekly.com.tw/carbon-reduction/blog/3009432)
+
+這篇文章討論了日本的太陽能一度作為再生能源轉型，解決了311大地震後的限電危機，也因政府大力推行補助，需求量激增。
+
+然而太陽能電池壽命有限，維修成本高，更嚴重的是，難以回收再利用，最後造成了污染。
+
+這篇與[「XX衝太陽光電融資」](https://news.cnyes.com/news/id/4844098)一文比對，會讓人想起[「Jevons Paradox」](https://en.wikipedia.org/wiki/Jevons_paradox)，想利用一些方案提升效率來解決環境過度利用的議題，但其並非不造成其他議題，而用量因需求、政府補助、金融推進而過度增加，最後造成的反面效應反而超過原來想解決的問題。
 
 
 ### 社會經濟
 
+#### ☞ [What made Warren Buffett rich is making us all poorer](https://finance.yahoo.com/news/what-made-warren-buffett-rich-is-making-us-all-poorer-193628699.html)
 
+
+文章利用通貨膨脹的原理，去計算油價和大麥克，以現在的貨幣計算，發現雖然有變化，但卻非常的一致。（然而影片中有提到薪資水平，卻是相對上升較低）
+而1922年的100美元，在2022相當是剩下5.44美元。
+
+而巴菲特講了一句話「對於一個依靠存折上5%利息收入的寡婦來說，零通脹時期100%的所得稅和通脹時期5%的通貨膨脹率是一樣的。」
+
+
+#### ☞ [Fully automated luxury communism could give us our lives back.](https://antoniomelonio-cosmos.medium.com/a-future-without-work-8af514e5106b)
+
+不必為了要有收入、所得，而勉強自己從事不喜歡、沒熱情的工作。
+
+這篇文章講的應該也是UBI常討論的，每個人如果都不工作的話是有可能的嗎？如果有一天AI、機器人發展完全，有這個機會。
+不過當然實踐上，或資本主義者是否願意釋放也是問題。
+
+文章在最後提到，資本主義的自私的確有在瓦解中的趨向，新世代的年輕人比過去人們更關心環境、更關心彼此、關心住的城市發生了什麼。
+城市並非為了車子而建，是為了人而建。
 
 ### 合作溝通
 
-(本次無文章)
+- [Using Emergence and Scaffolding to Address Complexity in Product Development](https://www.infoq.com/articles/emergence-scafolding-complexity/)
+
+- [Facebook SEO優化](https://erianmarketing.com/facebook-seo-optimization/)
 
 ### 設計
 
-
+（暫無分享）
 
 ### 技術
 
+#### ☞ [地熱作為再生能源有什麽好處？](https://sustainable-income-lab.github.io/Forget-Fusion/)
+
+能源轉型的過程中，許多人嘗試要發明新方案，例如許多人對核融合發電寄與厚望。然而新發明的時間往往比我們想像的久，另外甚至可能產生附帶問題。 文章以地熱為例，我們會發現，使用既有的設備「循環利用」會是永續進展過程中，不造成其它負面效應的重要考量。這樣的思維也能幫助我們思維社會團結經濟時，嘗試利用現有的組織去團結合作，避免過多新創組織而造成其它可能的反效果。
+
+
+#### ☞ [Beyond Renewables - The Battery That Could Power Everything](https://medium.com/predict/beyond-renewables-the-battery-that-could-power-everything-436a18c1ff59)
+
+英文的文中提到了太陽能及風力發電效力低下、佔面積、無法隨時發電。而「奈米鑽石電池」已進行POC（概念可行性驗證），可以作為手機電池可以9年不充電，而戶外設備電池甚至可以達到2.8萬年。
+
+不過看到這，可能會想這電池的生產過程是否需要許多能量，或造成問題？
+
+文中的一篇[文章](https://medium.com/the-postcapitalist/the-28-000-year-battery-52c963280be0)，以及另外[一篇文章](https://technews.tw/2020/09/02/nano-diamond-battery/)，提到了這是以核廢料回收的材料所製作。這一點蠻重要，解決一個問題的過程中，使用循環經濟的概念，不但不多造成其它問題，甚至將原來有害的元素，轉化爲益處。
+
+
+#### ☞ [鑽石的熱生電及電吸熱效應:尖端奈米科技的奇蹟](http://psroc.phys.ntu.edu.tw/bimonth/v24/579.pdf)
+
+本篇文章可以搭配上篇文章閱讀，文章提了很多能源的問題，而討論到再生能源，其實原理上可以說都來自太陽。（或應該說恆星，像文中認為地熱是超新星爆炸後形成星球所留下，詳細有待商榷，但不影響論述）
+
+從太陽能的吸收比較鑽石太陽電池，及矽晶太陽電池。最主要的差別如下
+
+『鑽石太陽電池與目前的矽晶太陽電池最大的 差異為前者使用「熱電效應」(Thermal Voltaic Effect)而後者為「光電效應」(Photo Electric Effect)。』
+亦即矽晶太陽電池是直接由太陽光激發出電子，但這樣的缺點是只有固定一些頻率的光可以被吸收而激發出電子，因而大多的能量都不會被捕捉到而效率低。
+而鑽石太陽電池是，讓陽光先被各種物質吸收成熱，再由熱激發鑽石中的電子，雖然這樣被激發的電子能量會較低，但各種頻率的光能都可以被轉換到。
 
 
 ---
@@ -132,6 +189,15 @@ Civic Tech（公民科技）主要在於利用各種設計思維、溝通方式�
 ---
 ## 新聞分享
 
+- [再生能源占比超過60%！台灣2050淨零路徑公布，怎麼達到穩定供電？](https://www.bnext.com.tw/article/68340/net-zero-taiwan-plan)
+
+- [台灣 2050 淨零排放，從「淨零生活」開始](https://circular-taiwan.org/2022/03/14/oped-lt-20220314/)
+
+- [新老人碳足跡高？戰後嬰兒潮世代占近1/3碳排總量](https://ubrand.udn.com/ubrand/story/12116/6218028)
+
+- [2050淨零排放策略－「民眾生活轉型」是推動重點](https://ubrand.udn.com/ubrand/story/12117/6206537)
+
+- [Web3 is the future, or a scam, or both](https://www.vox.com/recode/22907072/web3-crypto-nft-bitcoin-metaverse)
 
 
 ---
