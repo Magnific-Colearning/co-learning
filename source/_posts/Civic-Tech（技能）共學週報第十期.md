@@ -72,6 +72,13 @@ Civic Tech（公民科技）主要在於利用各種設計思維、溝通方式�
 
 ### 技術
 
+- [Generics in Go: Viva La Revolution!](https://levelup.gitconnected.com/generics-in-go-viva-la-revolution-e27898bf5495)
+
+- [Frontend accessibility. Doing it the right way.](https://bootcamp.uxdesign.cc/frontend-accessibility-doing-it-the-right-way-2b85fc323099)
+
+- [Migrating to a Multi-Cluster Managed Kafka with 0 Downtime](https://medium.com/wix-engineering/migrating-to-a-multi-cluster-managed-kafka-with-0-downtime-b936655f888e)
+
+- [Generics can make your Go code slower](https://planetscale.com/blog/generics-can-make-your-go-code-slower)
 
 ---
 ## 活動分享
@@ -115,7 +122,7 @@ Civic Tech（公民科技）主要在於利用各種設計思維、溝通方式�
 ---
 ## 新聞分享
 
-
+- [大佬憤怒喊話：在大廠做 Kubernetes 開源工作難以晉升](https://www.infoq.cn/news/EWCIMG6NVp8xyFS9Ril9)
 
 ---
 ## 其他連結
