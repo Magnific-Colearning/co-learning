@@ -59,12 +59,41 @@ Civic Tech（公民科技）主要在於利用各種設計思維、溝通方式�
 
 ### 系統思維
 
+#### 👉 [【公民議題大家來討論】再生能源真的環保嗎？｜活動筆記](https://sustainable-income-lab.github.io/is-renewable-eco-friendly/)
+
+本文由2022/4/8「永續所得實驗室」發起的【公民議題大家來討論】再生能源真的環保嗎？活動中，摘錄整理。
+
+隨著全球氣候暖化議題，淨零排放已是全球永續發展中的重要議題，而能源轉型為走向淨零排放的關鍵。可再生能源被認為是能源轉型的重要方案，然而再生能源在實務上可能會遇到許多的議題。
+
+我們這次的活動，便是一同探討如果要避免再生能源可能的副作用，有哪些原則是我們可以遵循參考的？
 
 ### 社會經濟
 
+#### 👉 [From the Communism of Capital to a Capital for the Commons](https://wiki.p2pfoundation.net/From_the_Communism_of_Capital_to_a_Capital_for_the_Common)
+
+
+強調「開源」的如Linux系統，一度變成共同創造但被資本私有機構獲利的工具，反成為IBM等科技廠商的獲利工具，相當於是剩餘價值被資本給全部取走，故成為所謂的「資本共產主義」
+
+Today we have a paradox, the more communistic the sharing license we use in the peer production of free software or open hardware, the more capitalistic the practice, with for example the Linux commons becoming a corporate commons enriching IBM and the like …
+https://wiki.p2pfoundation.net/From_the_Communism_of_Capital_to_a_Capital_for_the_Commons
+
+
+而 Creative Commons non commercial license 想要對抗這樣的文化，卻也可能造成負面，即創造出來的知識無法幫助經濟。
+
+最後文字裡提到的Peer Production License，則是讓企業也可以做商用，但必須支付對應的授權費，而將剩餘價值留在公民及知識創造的社群內部。
+
+
+#### 👉 [ETF 背後的巨頭現象](https://sustainable-income-lab.github.io/The-Company-That-Owns-the-World/)
+
+在2008年金融海嘯後，許多人選擇投資ETF，認為這是安全保存資產的方式。
+
+然而本篇文章提到ETF已經被金融巨頭壟斷，我們買這些ETF可能錢大多都進了這些巨頭的口袋。
+
+而巨頭的代表之一Blackrock的CEO曾提到認為石化燃料撤資的行為無意義，並且大量推行ESG基金。希望閱讀這邊文章後，可以思考金融巨頭是如何影響我們的認知，以及我們該如何應對？
 
 ### 合作溝通
 
+（暫無分享）
 
 ### 設計
 
@@ -82,7 +111,6 @@ Civic Tech（公民科技）主要在於利用各種設計思維、溝通方式�
 
 ---
 ## 活動分享
-
 
 **4月19日**
 - [SDN x Cloud Native Meetup](https://www.meetup.com/CloudNative-Taiwan/events/284821277/)
